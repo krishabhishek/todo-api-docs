@@ -1,6 +1,7 @@
 import type { ZudokuConfig } from "zudoku";
 
 const config: ZudokuConfig = {
+  basePath: "/todo-api-docs",
   site: {
     logo: {
       src: { light: "/logo-light.svg", dark: "/logo-dark.svg" },
